@@ -1,6 +1,6 @@
 
-### Hi there,<a href="https://t.me/capaqay" target="_blank">Say Sup to Telegram</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-### <a href="https://t.me/part_of_js" target="_blank">Follow me on my blog</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+### Hi there, <a href="https://t.me/part_of_js" target="_blank">Follow me on my blog</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+
 ### Gmail: <a href="farkhodoffcodes@gmail.com">farkhodoffcodes@gmail.com</a>
 
 
