@@ -1,11 +1,10 @@
-# Farkhodoff_me
-### Hi there, I'm <a href="https://t.me/capaqay" target="_blank">Farkhodoff</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-### How to reach me: <a href="farkhodoffcodes@gmail.com">farkhodoffcodes@gmail.com</a>
+### Hi there, I'm <a href="https://t.me/capaqay" target="_blank">Say Sup to Telegram</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-<a href="https://www.instagram.com/farkhodoff_codes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
-<a href="https://t.me/Davay1Uje" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
-<a href="https://www.linkedin.com/in/farkhodoff-codes-9083aa235/" target="_blank">
+### Gmail: <a href="farkhodoffcodes@gmail.com">farkhodoffcodes@gmail.com</a>
+
+
+<a href="https://www.linkedin.com/in/ogafarkhodov" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
 
 
